@@ -1,2 +1,2 @@
 # Trabalho-Interfaces-Web
-Trabalho Final de Interfaces Web
+Trabalho Final da cadeira de Interfaces Web
